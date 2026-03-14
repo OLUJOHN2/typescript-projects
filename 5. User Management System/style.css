@@ -1,0 +1,22 @@
+body {
+  font-family: Arial;
+  max-width: 600px;
+  margin: auto;
+}
+
+input {
+  padding: 8px;
+  margin: 5px;
+}
+
+button {
+  padding: 8px;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  border: 1px solid #ddd;
+  padding: 8px;
+}
